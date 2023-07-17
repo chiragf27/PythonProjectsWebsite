@@ -68,8 +68,9 @@ body {
 }
 
 .projectFilter a.current {
-    
     text-decoration: underline black;
+    text-decoration-thickness: 25%;
+    
 }
 
 .isotope-item {
