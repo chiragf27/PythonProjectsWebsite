@@ -27,13 +27,13 @@ body {
     height: 240pt;
 }
 .footer-margin {
-  height: 240pt;
+  height: 35pt;
 }
 .footer-bottom{
 	width: 100%;
 	padding: 25px 0;
 	text-align: center;
-    background-color:#0C1D2E;
+  background-color:#0C1D2E;
 }
 
 .btn-linkedin {
