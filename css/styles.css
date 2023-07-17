@@ -20,6 +20,7 @@ body {
 
 .navbar {
     background-color: #081D2E;
+    font-family: SF Pro Display;
 }
 
 .card-body {
@@ -59,7 +60,7 @@ body {
 }
 
 .projectFilter a {
-  font-size: x-large;
+  font-size: large;
   margin-right: 5px;
   margin-left: 5px;
   color:#081D2E;
